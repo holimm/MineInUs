@@ -1,0 +1,1046 @@
+[08-Dec-2021 18:14:30 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miusw'@'localhost' (using password: YES) in /home/mineinus/public_html/api/config.php on line 12
+[08-Dec-2021 18:14:30 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 13
+[08-Dec-2021 18:14:30 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[08-Dec-2021 18:14:30 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[08-Dec-2021 18:14:30 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[08-Dec-2021 18:14:30 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[08-Dec-2021 18:14:30 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[08-Dec-2021 18:14:39 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miusw'@'localhost' (using password: YES) in /home/mineinus/public_html/api/config.php on line 12
+[08-Dec-2021 18:14:39 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 13
+[08-Dec-2021 18:14:52 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miusw'@'localhost' (using password: YES) in /home/mineinus/public_html/api/config.php on line 12
+[08-Dec-2021 18:14:52 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 13
+[08-Dec-2021 18:15:11 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miusw'@'localhost' (using password: YES) in /home/mineinus/public_html/api/config.php on line 12
+[08-Dec-2021 18:15:11 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 13
+[08-Dec-2021 18:15:11 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[08-Dec-2021 18:15:11 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[08-Dec-2021 18:15:11 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[08-Dec-2021 18:15:11 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[08-Dec-2021 18:15:11 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[08-Dec-2021 18:15:57 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miusw'@'localhost' (using password: YES) in /home/mineinus/public_html/api/config.php on line 12
+[08-Dec-2021 18:15:57 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 13
+[08-Dec-2021 18:15:58 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miusw'@'localhost' (using password: YES) in /home/mineinus/public_html/api/config.php on line 12
+[08-Dec-2021 18:15:58 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 13
+[08-Dec-2021 18:16:49 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miusw'@'localhost' (using password: YES) in /home/mineinus/public_html/api/config.php on line 12
+[08-Dec-2021 18:16:49 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 13
+[08-Dec-2021 18:16:49 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[08-Dec-2021 18:16:49 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[08-Dec-2021 18:16:49 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[08-Dec-2021 18:16:49 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[08-Dec-2021 18:16:49 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[08-Dec-2021 18:17:11 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miusw'@'localhost' (using password: YES) in /home/mineinus/public_html/api/config.php on line 12
+[08-Dec-2021 18:17:11 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 13
+[08-Dec-2021 18:19:35 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miusw'@'localhost' (using password: YES) in /home/mineinus/public_html/api/config.php on line 12
+[08-Dec-2021 18:19:35 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 13
+[08-Dec-2021 18:19:36 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[08-Dec-2021 18:19:36 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[08-Dec-2021 18:19:36 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[08-Dec-2021 18:19:36 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[08-Dec-2021 18:19:36 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[08-Dec-2021 18:30:32 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miusw'@'localhost' (using password: YES) in /home/mineinus/public_html/api/config.php on line 12
+[08-Dec-2021 18:30:32 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 13
+[08-Dec-2021 18:30:33 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[08-Dec-2021 18:30:33 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[08-Dec-2021 18:30:33 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[08-Dec-2021 18:30:33 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[08-Dec-2021 18:30:33 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[08-Dec-2021 19:43:12 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miusw'@'localhost' (using password: YES) in /home/mineinus/public_html/api/config.php on line 12
+[08-Dec-2021 19:43:12 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 13
+[08-Dec-2021 19:43:12 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[08-Dec-2021 19:43:12 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[08-Dec-2021 19:43:12 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[08-Dec-2021 19:43:12 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[08-Dec-2021 19:43:12 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[08-Dec-2021 19:43:30 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miusw'@'localhost' (using password: YES) in /home/mineinus/public_html/api/config.php on line 12
+[08-Dec-2021 19:43:30 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 13
+[08-Dec-2021 19:43:50 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miusw'@'localhost' (using password: YES) in /home/mineinus/public_html/api/config.php on line 12
+[08-Dec-2021 19:43:50 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 13
+[08-Dec-2021 19:43:51 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[08-Dec-2021 19:43:51 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[08-Dec-2021 19:43:51 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[08-Dec-2021 19:43:51 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[08-Dec-2021 19:43:51 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[08-Dec-2021 19:44:15 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miusw'@'localhost' (using password: YES) in /home/mineinus/public_html/api/config.php on line 12
+[08-Dec-2021 19:44:15 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 13
+[08-Dec-2021 19:47:47 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/mineinus/public_html/controller/class/connection.php on line 28
+[08-Dec-2021 19:47:47 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/controller/class/connection.php on line 29
+[08-Dec-2021 19:52:47 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/mineinus/public_html/controller/class/connection.php on line 28
+[08-Dec-2021 19:52:47 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/controller/class/connection.php on line 29
+[08-Dec-2021 23:54:58 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miusw'@'localhost' (using password: YES) in /home/mineinus/public_html/api/config.php on line 12
+[08-Dec-2021 23:54:58 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 13
+[08-Dec-2021 23:54:58 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[08-Dec-2021 23:54:58 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[08-Dec-2021 23:54:58 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[08-Dec-2021 23:54:58 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[08-Dec-2021 23:54:58 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[08-Dec-2021 23:56:17 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miusw'@'localhost' (using password: YES) in /home/mineinus/public_html/api/config.php on line 12
+[08-Dec-2021 23:56:17 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 13
+[08-Dec-2021 23:56:17 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[08-Dec-2021 23:56:17 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[08-Dec-2021 23:56:17 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[08-Dec-2021 23:56:17 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[08-Dec-2021 23:56:17 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[08-Dec-2021 23:56:37 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miusw'@'localhost' (using password: YES) in /home/mineinus/public_html/api/config.php on line 12
+[08-Dec-2021 23:56:37 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 13
+[08-Dec-2021 23:57:09 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miusw'@'localhost' (using password: YES) in /home/mineinus/public_html/api/config.php on line 12
+[08-Dec-2021 23:57:09 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 13
+[08-Dec-2021 23:57:09 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[08-Dec-2021 23:57:09 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[08-Dec-2021 23:57:09 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[08-Dec-2021 23:57:09 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[08-Dec-2021 23:57:09 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[08-Dec-2021 23:58:40 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miusw'@'localhost' (using password: YES) in /home/mineinus/public_html/api/config.php on line 12
+[08-Dec-2021 23:58:40 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 13
+[08-Dec-2021 23:58:41 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[08-Dec-2021 23:58:41 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[08-Dec-2021 23:58:41 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[08-Dec-2021 23:58:41 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[08-Dec-2021 23:58:41 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[08-Dec-2021 23:59:11 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miusw'@'localhost' (using password: YES) in /home/mineinus/public_html/api/config.php on line 12
+[08-Dec-2021 23:59:11 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 13
+[08-Dec-2021 23:59:25 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miusw'@'localhost' (using password: YES) in /home/mineinus/public_html/api/config.php on line 12
+[08-Dec-2021 23:59:25 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 13
+[08-Dec-2021 23:59:25 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[08-Dec-2021 23:59:25 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[08-Dec-2021 23:59:25 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[08-Dec-2021 23:59:25 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[08-Dec-2021 23:59:25 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[09-Dec-2021 00:05:34 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miusw'@'localhost' (using password: YES) in /home/mineinus/public_html/api/config.php on line 12
+[09-Dec-2021 00:05:34 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 13
+[09-Dec-2021 00:05:34 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[09-Dec-2021 00:05:34 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[09-Dec-2021 00:05:34 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[09-Dec-2021 00:05:34 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[09-Dec-2021 00:05:34 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[09-Dec-2021 00:05:48 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miusw'@'localhost' (using password: YES) in /home/mineinus/public_html/api/config.php on line 12
+[09-Dec-2021 00:05:48 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 13
+[09-Dec-2021 00:06:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miusw'@'localhost' (using password: YES) in /home/mineinus/public_html/api/config.php on line 12
+[09-Dec-2021 00:06:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 13
+[09-Dec-2021 00:06:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[09-Dec-2021 00:06:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[09-Dec-2021 00:06:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[09-Dec-2021 00:06:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[09-Dec-2021 00:06:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[09-Dec-2021 00:11:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miusw'@'localhost' (using password: YES) in /home/mineinus/public_html/api/config.php on line 12
+[09-Dec-2021 00:11:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 13
+[09-Dec-2021 00:11:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[09-Dec-2021 00:11:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[09-Dec-2021 00:11:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[09-Dec-2021 00:11:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[09-Dec-2021 00:11:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[09-Dec-2021 00:15:52 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miusw'@'localhost' (using password: YES) in /home/mineinus/public_html/api/config.php on line 12
+[09-Dec-2021 00:15:52 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 13
+[09-Dec-2021 00:15:52 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[09-Dec-2021 00:15:52 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[09-Dec-2021 00:15:52 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[09-Dec-2021 00:15:52 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[09-Dec-2021 00:15:52 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[09-Dec-2021 00:16:54 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miusw'@'localhost' (using password: YES) in /home/mineinus/public_html/api/config.php on line 12
+[09-Dec-2021 00:16:54 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 13
+[09-Dec-2021 00:16:54 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[09-Dec-2021 00:16:54 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[09-Dec-2021 00:16:54 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[09-Dec-2021 00:16:54 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[09-Dec-2021 00:16:54 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[09-Dec-2021 00:18:44 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miusw'@'localhost' (using password: YES) in /home/mineinus/public_html/api/config.php on line 12
+[09-Dec-2021 00:18:44 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 13
+[09-Dec-2021 00:18:45 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[09-Dec-2021 00:18:45 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[09-Dec-2021 00:18:45 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[09-Dec-2021 00:18:45 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[09-Dec-2021 00:18:45 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[09-Dec-2021 00:18:57 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miusw'@'localhost' (using password: YES) in /home/mineinus/public_html/api/config.php on line 12
+[09-Dec-2021 00:18:57 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 13
+[09-Dec-2021 00:19:19 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miusw'@'localhost' (using password: YES) in /home/mineinus/public_html/api/config.php on line 12
+[09-Dec-2021 00:19:19 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 13
+[09-Dec-2021 00:19:39 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miusw'@'localhost' (using password: YES) in /home/mineinus/public_html/api/config.php on line 12
+[09-Dec-2021 00:19:39 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 13
+[09-Dec-2021 00:19:39 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[09-Dec-2021 00:19:39 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[09-Dec-2021 00:19:39 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[09-Dec-2021 00:19:39 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[09-Dec-2021 00:19:39 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[09-Dec-2021 00:58:47 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miusw'@'localhost' (using password: YES) in /home/mineinus/public_html/api/config.php on line 12
+[09-Dec-2021 00:58:47 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 13
+[09-Dec-2021 00:58:47 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[09-Dec-2021 00:58:47 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[09-Dec-2021 00:58:47 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[09-Dec-2021 00:58:47 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[09-Dec-2021 00:58:47 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[09-Dec-2021 06:22:31 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miusw'@'localhost' (using password: YES) in /home/mineinus/public_html/api/config.php on line 12
+[09-Dec-2021 06:22:31 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 13
+[09-Dec-2021 06:22:31 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[09-Dec-2021 06:22:31 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[09-Dec-2021 06:22:31 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[09-Dec-2021 06:22:31 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[09-Dec-2021 06:22:31 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[09-Dec-2021 06:22:47 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miusw'@'localhost' (using password: YES) in /home/mineinus/public_html/api/config.php on line 12
+[09-Dec-2021 06:22:47 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 13
+[09-Dec-2021 06:23:06 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miusw'@'localhost' (using password: YES) in /home/mineinus/public_html/api/config.php on line 12
+[09-Dec-2021 06:23:06 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 13
+[09-Dec-2021 06:23:06 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[09-Dec-2021 06:23:06 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[09-Dec-2021 06:23:06 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[09-Dec-2021 06:23:06 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[09-Dec-2021 06:23:06 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[09-Dec-2021 06:24:00 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miusw'@'localhost' (using password: YES) in /home/mineinus/public_html/api/config.php on line 12
+[09-Dec-2021 06:24:00 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 13
+[09-Dec-2021 06:24:01 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[09-Dec-2021 06:24:01 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[09-Dec-2021 06:24:01 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[09-Dec-2021 06:24:01 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[09-Dec-2021 06:24:01 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[09-Dec-2021 13:01:39 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miusw'@'localhost' (using password: YES) in /home/mineinus/public_html/api/config.php on line 12
+[09-Dec-2021 13:01:39 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 13
+[09-Dec-2021 13:01:39 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[09-Dec-2021 13:01:39 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[09-Dec-2021 13:01:39 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[09-Dec-2021 13:01:39 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[09-Dec-2021 13:01:39 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[09-Dec-2021 13:02:30 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miusw'@'localhost' (using password: YES) in /home/mineinus/public_html/api/config.php on line 12
+[09-Dec-2021 13:02:30 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 13
+[09-Dec-2021 13:02:31 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[09-Dec-2021 13:02:31 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[09-Dec-2021 13:02:31 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[09-Dec-2021 13:02:31 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[09-Dec-2021 13:02:31 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[09-Dec-2021 13:12:25 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miusw'@'localhost' (using password: YES) in /home/mineinus/public_html/api/config.php on line 12
+[09-Dec-2021 13:12:25 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 13
+[09-Dec-2021 13:12:25 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[09-Dec-2021 13:12:25 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[09-Dec-2021 13:12:25 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[09-Dec-2021 13:12:25 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[09-Dec-2021 13:12:25 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[09-Dec-2021 13:12:45 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miusw'@'localhost' (using password: YES) in /home/mineinus/public_html/api/config.php on line 12
+[09-Dec-2021 13:12:45 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 13
+[09-Dec-2021 13:12:45 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[09-Dec-2021 13:12:45 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[09-Dec-2021 13:12:45 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[09-Dec-2021 13:12:45 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[09-Dec-2021 13:12:45 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[09-Dec-2021 13:14:04 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miusw'@'localhost' (using password: YES) in /home/mineinus/public_html/api/config.php on line 12
+[09-Dec-2021 13:14:04 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 13
+[09-Dec-2021 13:14:05 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[09-Dec-2021 13:14:05 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[09-Dec-2021 13:14:05 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[09-Dec-2021 13:14:05 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[09-Dec-2021 13:14:05 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[09-Dec-2021 13:24:15 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miusw'@'localhost' (using password: YES) in /home/mineinus/public_html/api/config.php on line 12
+[09-Dec-2021 13:24:15 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 13
+[09-Dec-2021 13:24:31 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miusw'@'localhost' (using password: YES) in /home/mineinus/public_html/api/config.php on line 12
+[09-Dec-2021 13:24:31 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 13
+[09-Dec-2021 13:24:31 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[09-Dec-2021 13:24:31 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[09-Dec-2021 13:24:31 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[09-Dec-2021 13:24:31 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[09-Dec-2021 13:24:31 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[12-Dec-2021 12:00:15 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[12-Dec-2021 12:00:15 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[12-Dec-2021 12:00:15 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[12-Dec-2021 12:00:15 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[12-Dec-2021 12:00:15 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[12-Dec-2021 12:00:15 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[12-Dec-2021 12:00:15 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[12-Dec-2021 12:00:23 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[12-Dec-2021 12:00:23 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[12-Dec-2021 12:00:26 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[12-Dec-2021 12:00:26 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[12-Dec-2021 12:00:27 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[12-Dec-2021 12:00:27 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[12-Dec-2021 12:00:41 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[12-Dec-2021 12:00:41 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[12-Dec-2021 12:00:42 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[12-Dec-2021 12:00:42 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[12-Dec-2021 12:00:42 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[12-Dec-2021 12:00:42 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[12-Dec-2021 12:00:42 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[12-Dec-2021 12:00:42 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[12-Dec-2021 12:00:42 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[12-Dec-2021 12:00:42 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[12-Dec-2021 12:00:43 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[12-Dec-2021 12:00:43 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:21:37 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:21:37 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:21:37 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[24-Dec-2021 10:21:37 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[24-Dec-2021 10:21:37 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[24-Dec-2021 10:21:37 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[24-Dec-2021 10:21:37 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[24-Dec-2021 10:21:41 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:21:41 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:21:48 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:21:48 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:21:51 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:21:51 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:21:51 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:21:51 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:21:56 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:21:56 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:21:58 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:21:58 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:21:58 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:21:58 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:21:58 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:21:58 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:21:58 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:21:58 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:22:01 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:22:01 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:22:04 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:22:04 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:22:22 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:22:22 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:23:18 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:23:18 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:24:44 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:24:44 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:24:44 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[24-Dec-2021 10:24:44 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[24-Dec-2021 10:24:44 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[24-Dec-2021 10:24:44 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[24-Dec-2021 10:24:44 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[24-Dec-2021 10:25:17 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:25:17 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:26:47 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:26:47 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:26:47 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[24-Dec-2021 10:26:47 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[24-Dec-2021 10:26:47 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[24-Dec-2021 10:26:47 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[24-Dec-2021 10:26:47 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[24-Dec-2021 10:26:52 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:26:52 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:27:01 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:27:01 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:27:28 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:27:28 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:27:28 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:27:28 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:27:28 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:27:28 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:27:28 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:27:28 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:27:28 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:27:28 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:27:29 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:27:29 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:27:30 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:27:30 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:27:33 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:27:33 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:33:58 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:33:58 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:33:58 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[24-Dec-2021 10:33:58 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[24-Dec-2021 10:33:58 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[24-Dec-2021 10:33:58 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[24-Dec-2021 10:33:58 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[24-Dec-2021 10:34:17 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:34:17 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:34:44 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:34:44 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:34:47 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:34:47 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:34:48 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:34:48 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:34:48 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:34:48 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:34:48 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:34:48 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:34:48 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:34:48 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:35:32 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:35:32 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:35:33 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:35:33 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:35:34 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[24-Dec-2021 10:35:34 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[24-Dec-2021 10:35:34 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[24-Dec-2021 10:35:34 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[24-Dec-2021 10:35:34 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[24-Dec-2021 10:43:14 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:43:14 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:43:14 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[24-Dec-2021 10:43:14 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[24-Dec-2021 10:43:14 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[24-Dec-2021 10:43:14 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[24-Dec-2021 10:43:14 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[24-Dec-2021 10:43:54 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:43:54 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:45:13 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:45:13 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:45:14 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[24-Dec-2021 10:45:14 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[24-Dec-2021 10:45:14 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[24-Dec-2021 10:45:14 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[24-Dec-2021 10:45:14 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[24-Dec-2021 10:45:15 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:45:15 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:45:15 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:45:15 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:45:15 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:45:15 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:45:15 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:45:15 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:45:15 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:45:15 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:45:15 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:45:15 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:45:15 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:45:15 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:45:16 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:45:16 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:45:16 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:45:16 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:45:16 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:45:16 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:45:16 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:45:16 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:45:16 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:45:16 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:45:17 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:45:17 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:45:17 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:45:17 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:45:18 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:45:18 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:45:18 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:45:18 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:45:19 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:45:19 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:45:19 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:45:19 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:45:19 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:45:19 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:50:10 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:50:10 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:50:11 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[24-Dec-2021 10:50:11 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[24-Dec-2021 10:50:11 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[24-Dec-2021 10:50:11 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[24-Dec-2021 10:50:11 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[24-Dec-2021 10:50:18 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:50:18 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:50:20 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:50:20 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:50:37 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:50:37 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:50:37 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[24-Dec-2021 10:50:37 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[24-Dec-2021 10:50:37 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[24-Dec-2021 10:50:37 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[24-Dec-2021 10:50:37 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[24-Dec-2021 10:50:39 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:50:39 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:50:39 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:50:39 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:50:39 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:50:39 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:50:39 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:50:39 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:50:40 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:50:40 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:51:07 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:51:07 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:51:13 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:51:13 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:51:13 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:51:13 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:51:49 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:51:49 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:51:50 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[24-Dec-2021 10:51:50 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[24-Dec-2021 10:51:50 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[24-Dec-2021 10:51:50 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[24-Dec-2021 10:51:50 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[24-Dec-2021 10:54:22 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:54:22 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:54:22 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[24-Dec-2021 10:54:22 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[24-Dec-2021 10:54:22 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[24-Dec-2021 10:54:22 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[24-Dec-2021 10:54:22 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[24-Dec-2021 10:54:26 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:54:26 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:54:28 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:54:28 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:54:33 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:54:33 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:56:48 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:56:48 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:56:49 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[24-Dec-2021 10:56:49 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[24-Dec-2021 10:56:49 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[24-Dec-2021 10:56:49 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[24-Dec-2021 10:56:49 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[24-Dec-2021 10:59:54 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 10:59:54 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 10:59:54 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[24-Dec-2021 10:59:54 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[24-Dec-2021 10:59:54 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[24-Dec-2021 10:59:54 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[24-Dec-2021 10:59:54 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[24-Dec-2021 11:00:01 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 11:00:01 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 11:00:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 11:00:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 11:00:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 11:00:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 11:00:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 11:00:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 11:00:05 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 11:00:05 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 11:00:05 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 11:00:05 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[24-Dec-2021 11:00:05 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[24-Dec-2021 11:00:05 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[25-Dec-2021 12:44:59 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[25-Dec-2021 12:44:59 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[25-Dec-2021 12:45:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[25-Dec-2021 12:45:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[25-Dec-2021 12:45:05 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[25-Dec-2021 12:45:05 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[25-Dec-2021 12:45:07 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[25-Dec-2021 12:45:07 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[25-Dec-2021 12:45:12 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[25-Dec-2021 12:45:12 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[25-Dec-2021 12:45:12 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[25-Dec-2021 12:45:12 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[25-Dec-2021 12:45:12 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[25-Dec-2021 12:45:12 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[25-Dec-2021 12:45:12 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[25-Dec-2021 12:45:26 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[25-Dec-2021 12:45:26 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[25-Dec-2021 12:45:54 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[25-Dec-2021 12:45:54 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[25-Dec-2021 12:45:54 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[25-Dec-2021 12:45:54 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[25-Dec-2021 12:45:54 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[25-Dec-2021 12:45:54 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[25-Dec-2021 12:45:55 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[25-Dec-2021 12:45:55 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[25-Dec-2021 12:45:55 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[25-Dec-2021 12:45:55 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[25-Dec-2021 12:45:55 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[25-Dec-2021 12:45:55 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[25-Dec-2021 12:45:55 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[25-Dec-2021 12:45:55 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[25-Dec-2021 12:45:55 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[25-Dec-2021 12:45:55 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[25-Dec-2021 12:45:55 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[25-Dec-2021 12:45:55 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[25-Dec-2021 12:45:55 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[25-Dec-2021 12:45:55 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[25-Dec-2021 12:45:56 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[25-Dec-2021 12:45:56 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[25-Dec-2021 12:45:59 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(): SSL: Handshake timed out in /home/mineinus/public_html/ajax/card.php on line 13
+[25-Dec-2021 12:45:59 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/mineinus/public_html/ajax/card.php on line 13
+[25-Dec-2021 12:45:59 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LeLcgMdAAAAADpp1WAHR5RQLfg45SWxcl_2esaI&amp;response=03AGdBq26p1eiyrx33n07oO84gTpkLENcrgucyY-h6gv0BEiJdTVqpVlRXGOEcHUCyCTQJ7YIDTarUJEf4Wz_t5dftNG8PZ9eRYRUPRPN-Ktw7yS2vyklrQRywgpjUuwAAF81vyCA4m_7-DqW5PZ6xWs1LM-aObbkq-lQoTyzXhZBjC2ig7cIsDtr3SPBGFeWcX0eRMa1T9B5WClyZnKRzgzHuiQjuseLfcWbwCaeAiAjz5gIlCiUs8m5BL3-21hPTz5zMl-is5s1T2XLyfuKhtdTs3gIpRi97eKOYMJb76F9NgCFD_0qd3svkm3Ma10imsx3pVqdd3OsAe0uo2tvan5iv0tfcCExa3Z8pdzp5oIbWI44isYbLFX6egz-erHfBgh3rE7gvLn-L9UDvE2bT90-usvG1E_vDkvrnvI1D5P4CZNALxTjs_viz_nmu_597IlqvMZfG4b99Wp-WGNnOfPt-uDBSkO4m3jdgjKJL0_cTXVVjTc0KEplxiGL6T5gKWN7IWMAYjETvS5-JARUYLv0lMd2WFoGENg&amp;remoteip=2405:4802:b2b7:7d30:fc80:de34:135e:6d1): failed to open stream: operation failed in /home/mineinus/public_html/ajax/card.php on line 13
+[25-Dec-2021 12:45:59 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/mineinus/public_html/ajax/card.php on line 16
+[25-Dec-2021 12:46:02 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(): SSL: Handshake timed out in /home/mineinus/public_html/ajax/card.php on line 13
+[25-Dec-2021 12:46:02 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/mineinus/public_html/ajax/card.php on line 13
+[25-Dec-2021 12:46:02 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LeLcgMdAAAAADpp1WAHR5RQLfg45SWxcl_2esaI&amp;response=03AGdBq26p1eiyrx33n07oO84gTpkLENcrgucyY-h6gv0BEiJdTVqpVlRXGOEcHUCyCTQJ7YIDTarUJEf4Wz_t5dftNG8PZ9eRYRUPRPN-Ktw7yS2vyklrQRywgpjUuwAAF81vyCA4m_7-DqW5PZ6xWs1LM-aObbkq-lQoTyzXhZBjC2ig7cIsDtr3SPBGFeWcX0eRMa1T9B5WClyZnKRzgzHuiQjuseLfcWbwCaeAiAjz5gIlCiUs8m5BL3-21hPTz5zMl-is5s1T2XLyfuKhtdTs3gIpRi97eKOYMJb76F9NgCFD_0qd3svkm3Ma10imsx3pVqdd3OsAe0uo2tvan5iv0tfcCExa3Z8pdzp5oIbWI44isYbLFX6egz-erHfBgh3rE7gvLn-L9UDvE2bT90-usvG1E_vDkvrnvI1D5P4CZNALxTjs_viz_nmu_597IlqvMZfG4b99Wp-WGNnOfPt-uDBSkO4m3jdgjKJL0_cTXVVjTc0KEplxiGL6T5gKWN7IWMAYjETvS5-JARUYLv0lMd2WFoGENg&amp;remoteip=2405:4802:b2b7:7d30:fc80:de34:135e:6d1): failed to open stream: operation failed in /home/mineinus/public_html/ajax/card.php on line 13
+[25-Dec-2021 12:46:02 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/mineinus/public_html/ajax/card.php on line 16
+[25-Dec-2021 12:46:26 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(): SSL: Handshake timed out in /home/mineinus/public_html/ajax/card.php on line 13
+[25-Dec-2021 12:46:26 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/mineinus/public_html/ajax/card.php on line 13
+[25-Dec-2021 12:46:26 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LeLcgMdAAAAADpp1WAHR5RQLfg45SWxcl_2esaI&amp;response=03AGdBq26p1eiyrx33n07oO84gTpkLENcrgucyY-h6gv0BEiJdTVqpVlRXGOEcHUCyCTQJ7YIDTarUJEf4Wz_t5dftNG8PZ9eRYRUPRPN-Ktw7yS2vyklrQRywgpjUuwAAF81vyCA4m_7-DqW5PZ6xWs1LM-aObbkq-lQoTyzXhZBjC2ig7cIsDtr3SPBGFeWcX0eRMa1T9B5WClyZnKRzgzHuiQjuseLfcWbwCaeAiAjz5gIlCiUs8m5BL3-21hPTz5zMl-is5s1T2XLyfuKhtdTs3gIpRi97eKOYMJb76F9NgCFD_0qd3svkm3Ma10imsx3pVqdd3OsAe0uo2tvan5iv0tfcCExa3Z8pdzp5oIbWI44isYbLFX6egz-erHfBgh3rE7gvLn-L9UDvE2bT90-usvG1E_vDkvrnvI1D5P4CZNALxTjs_viz_nmu_597IlqvMZfG4b99Wp-WGNnOfPt-uDBSkO4m3jdgjKJL0_cTXVVjTc0KEplxiGL6T5gKWN7IWMAYjETvS5-JARUYLv0lMd2WFoGENg&amp;remoteip=2405:4802:b2b7:7d30:fc80:de34:135e:6d1): failed to open stream: operation failed in /home/mineinus/public_html/ajax/card.php on line 13
+[25-Dec-2021 12:46:26 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/mineinus/public_html/ajax/card.php on line 16
+[25-Dec-2021 12:48:01 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[25-Dec-2021 12:48:01 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[25-Dec-2021 12:48:01 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[25-Dec-2021 12:48:01 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[25-Dec-2021 12:48:01 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[25-Dec-2021 12:48:01 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[25-Dec-2021 12:48:01 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[25-Dec-2021 12:48:01 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[25-Dec-2021 12:48:01 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[25-Dec-2021 12:48:01 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[25-Dec-2021 12:48:01 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[25-Dec-2021 12:48:01 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 20
+[25-Dec-2021 12:48:01 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[25-Dec-2021 12:48:01 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 22
+[25-Dec-2021 12:48:01 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[25-Dec-2021 12:48:01 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[25-Dec-2021 12:48:01 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[25-Dec-2021 12:48:01 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[25-Dec-2021 12:48:01 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[25-Dec-2021 12:48:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[25-Dec-2021 12:48:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[25-Dec-2021 12:48:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[25-Dec-2021 12:48:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[25-Dec-2021 12:48:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[25-Dec-2021 12:48:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[25-Dec-2021 12:48:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[25-Dec-2021 12:48:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[25-Dec-2021 12:48:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[25-Dec-2021 12:48:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[25-Dec-2021 12:48:03 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[25-Dec-2021 12:48:03 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[25-Dec-2021 12:48:03 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[25-Dec-2021 12:48:03 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[25-Dec-2021 12:48:03 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[25-Dec-2021 12:48:03 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[25-Dec-2021 12:48:03 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[25-Dec-2021 12:48:03 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[25-Dec-2021 12:48:03 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[25-Dec-2021 12:48:03 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[25-Dec-2021 12:48:03 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[25-Dec-2021 12:48:03 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[25-Dec-2021 12:48:03 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[25-Dec-2021 12:48:03 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[25-Dec-2021 12:48:12 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[25-Dec-2021 12:48:12 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[25-Dec-2021 12:48:12 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[25-Dec-2021 12:48:12 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[25-Dec-2021 12:48:12 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[25-Dec-2021 12:48:12 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[25-Dec-2021 12:48:12 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[25-Dec-2021 12:48:12 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[25-Dec-2021 12:48:12 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[25-Dec-2021 12:48:12 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[25-Dec-2021 12:48:12 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[25-Dec-2021 12:48:12 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[25-Dec-2021 12:49:01 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(): SSL: Handshake timed out in /home/mineinus/public_html/ajax/card.php on line 13
+[25-Dec-2021 12:49:01 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/mineinus/public_html/ajax/card.php on line 13
+[25-Dec-2021 12:49:01 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LeLcgMdAAAAADpp1WAHR5RQLfg45SWxcl_2esaI&amp;response=03AGdBq262eDvAnZXwn7ayqaDFS2bUwHK-cUiqx_brDm1TXCrr0177K3WgQhQ_WaCY79mGcwliqmOu_RjJUKLel8bG2XL5Xbx7r2y4Iq7MFauG07vdAzUveEi2fSA-ch2bp2Y0bFy8PYnh0Aatmj9csJqJwSYNX8W-dUokEATFvmcWRbFp9wmB44ENK4cgeG3cJjdLVDrP9882IlCGMeUueJ9ADXMChDvfTH9c_eL_s1y44mtJcyAMwDVLmXaQy78bZiDRurSQfDt-oGsmDdJ2JWU1uL9RvOxbE2UUSqdwL2CRPWk3lzbIVnMLEaHaz-Zh46SKOi9rrqUU5HxkBRdmb8NM6K7M8QFdY024hWZEFE8muF9wH-u0tHDSv0cI43cI4VEFqYMdAMsPJj03AKTqfUhzEcxN6ePpliM9mhXQBLGTK4qeOuLHXN8Jip1DIarOrexHz2LoHXduUaz_Fk5It5HIxAp0Fy4FMzi-BJM5m5oJmuC9VhhWxvuehkZzDuDtc_q5vrVwX_Zr1ISMWe3EIztuogatA-RZIA&amp;remoteip=2405:4802:b2b7:7d30:fc80:de34:135e:6d1): failed to open stream: operation failed in /home/mineinus/public_html/ajax/card.php on line 13
+[25-Dec-2021 12:49:01 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/mineinus/public_html/ajax/card.php on line 16
+[28-Dec-2021 18:52:23 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[28-Dec-2021 18:52:23 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[28-Dec-2021 18:52:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: g-recaptcha-response in /home/mineinus/public_html/ajax/card.php on line 10
+[02-Jan-2022 15:20:41 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[02-Jan-2022 15:20:41 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[02-Jan-2022 15:20:41 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: g-recaptcha-response in /home/mineinus/public_html/ajax/card.php on line 10
+[02-Jan-2022 15:20:47 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[02-Jan-2022 15:20:47 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[02-Jan-2022 15:20:47 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: g-recaptcha-response in /home/mineinus/public_html/ajax/card.php on line 10
+[02-Jan-2022 15:21:15 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[02-Jan-2022 15:21:15 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[02-Jan-2022 15:21:15 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: g-recaptcha-response in /home/mineinus/public_html/ajax/card.php on line 10
+[02-Jan-2022 15:21:41 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(): SSL: Handshake timed out in /home/mineinus/public_html/ajax/card.php on line 13
+[02-Jan-2022 15:21:41 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/mineinus/public_html/ajax/card.php on line 13
+[02-Jan-2022 15:21:41 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LeLcgMdAAAAADpp1WAHR5RQLfg45SWxcl_2esaI&amp;response=&amp;remoteip=2405:4802:9032:a860:b564:5931:25b:e6c6): failed to open stream: operation failed in /home/mineinus/public_html/ajax/card.php on line 13
+[02-Jan-2022 15:21:41 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/mineinus/public_html/ajax/card.php on line 16
+[02-Jan-2022 15:21:47 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(): SSL: Handshake timed out in /home/mineinus/public_html/ajax/card.php on line 13
+[02-Jan-2022 15:21:47 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/mineinus/public_html/ajax/card.php on line 13
+[02-Jan-2022 15:21:47 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LeLcgMdAAAAADpp1WAHR5RQLfg45SWxcl_2esaI&amp;response=&amp;remoteip=2405:4802:9032:a860:b564:5931:25b:e6c6): failed to open stream: operation failed in /home/mineinus/public_html/ajax/card.php on line 13
+[02-Jan-2022 15:21:47 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/mineinus/public_html/ajax/card.php on line 16
+[02-Jan-2022 15:22:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[02-Jan-2022 15:22:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[02-Jan-2022 15:22:02 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: g-recaptcha-response in /home/mineinus/public_html/ajax/card.php on line 10
+[02-Jan-2022 15:22:15 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(): SSL: Handshake timed out in /home/mineinus/public_html/ajax/card.php on line 13
+[02-Jan-2022 15:22:15 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/mineinus/public_html/ajax/card.php on line 13
+[02-Jan-2022 15:22:15 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LeLcgMdAAAAADpp1WAHR5RQLfg45SWxcl_2esaI&amp;response=&amp;remoteip=2405:4802:9032:a860:b564:5931:25b:e6c6): failed to open stream: operation failed in /home/mineinus/public_html/ajax/card.php on line 13
+[02-Jan-2022 15:22:15 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/mineinus/public_html/ajax/card.php on line 16
+[02-Jan-2022 15:22:16 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[02-Jan-2022 15:22:16 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[02-Jan-2022 15:22:16 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: g-recaptcha-response in /home/mineinus/public_html/ajax/card.php on line 10
+[02-Jan-2022 15:23:15 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[02-Jan-2022 15:23:15 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[02-Jan-2022 15:23:15 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: g-recaptcha-response in /home/mineinus/public_html/ajax/card.php on line 10
+[02-Jan-2022 15:23:16 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(): SSL: Handshake timed out in /home/mineinus/public_html/ajax/card.php on line 13
+[02-Jan-2022 15:23:16 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/mineinus/public_html/ajax/card.php on line 13
+[02-Jan-2022 15:23:16 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LeLcgMdAAAAADpp1WAHR5RQLfg45SWxcl_2esaI&amp;response=&amp;remoteip=2405:4802:9032:a860:b564:5931:25b:e6c6): failed to open stream: operation failed in /home/mineinus/public_html/ajax/card.php on line 13
+[02-Jan-2022 15:23:16 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/mineinus/public_html/ajax/card.php on line 16
+[02-Jan-2022 15:23:40 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[02-Jan-2022 15:23:40 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[02-Jan-2022 15:23:40 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: g-recaptcha-response in /home/mineinus/public_html/ajax/card.php on line 10
+[02-Jan-2022 15:24:10 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[02-Jan-2022 15:24:10 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[02-Jan-2022 15:24:10 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: g-recaptcha-response in /home/mineinus/public_html/ajax/card.php on line 10
+[02-Jan-2022 15:24:30 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[02-Jan-2022 15:24:30 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[02-Jan-2022 15:24:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: g-recaptcha-response in /home/mineinus/public_html/ajax/card.php on line 10
+[02-Jan-2022 15:24:41 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(): SSL: Handshake timed out in /home/mineinus/public_html/ajax/card.php on line 13
+[02-Jan-2022 15:24:41 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/mineinus/public_html/ajax/card.php on line 13
+[02-Jan-2022 15:24:41 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LeLcgMdAAAAADpp1WAHR5RQLfg45SWxcl_2esaI&amp;response=&amp;remoteip=2405:4802:9032:a860:b564:5931:25b:e6c6): failed to open stream: operation failed in /home/mineinus/public_html/ajax/card.php on line 13
+[02-Jan-2022 15:24:41 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/mineinus/public_html/ajax/card.php on line 16
+[02-Jan-2022 15:25:10 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(): SSL: Handshake timed out in /home/mineinus/public_html/ajax/card.php on line 13
+[02-Jan-2022 15:25:10 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/mineinus/public_html/ajax/card.php on line 13
+[02-Jan-2022 15:25:10 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LeLcgMdAAAAADpp1WAHR5RQLfg45SWxcl_2esaI&amp;response=&amp;remoteip=2405:4802:9032:a860:b564:5931:25b:e6c6): failed to open stream: operation failed in /home/mineinus/public_html/ajax/card.php on line 13
+[02-Jan-2022 15:25:10 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/mineinus/public_html/ajax/card.php on line 16
+[02-Jan-2022 15:25:30 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(): SSL: Handshake timed out in /home/mineinus/public_html/ajax/card.php on line 13
+[02-Jan-2022 15:25:30 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/mineinus/public_html/ajax/card.php on line 13
+[02-Jan-2022 15:25:30 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LeLcgMdAAAAADpp1WAHR5RQLfg45SWxcl_2esaI&amp;response=&amp;remoteip=2405:4802:9032:a860:b564:5931:25b:e6c6): failed to open stream: operation failed in /home/mineinus/public_html/ajax/card.php on line 13
+[02-Jan-2022 15:25:30 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/mineinus/public_html/ajax/card.php on line 16
+[02-Jan-2022 15:26:40 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[02-Jan-2022 15:26:40 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[02-Jan-2022 15:26:40 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: g-recaptcha-response in /home/mineinus/public_html/ajax/card.php on line 10
+[02-Jan-2022 15:27:40 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(): SSL: Handshake timed out in /home/mineinus/public_html/ajax/card.php on line 13
+[02-Jan-2022 15:27:40 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/mineinus/public_html/ajax/card.php on line 13
+[02-Jan-2022 15:27:40 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LeLcgMdAAAAADpp1WAHR5RQLfg45SWxcl_2esaI&amp;response=&amp;remoteip=2405:4802:9032:a860:e8cc:bfe1:8e67:46ca): failed to open stream: operation failed in /home/mineinus/public_html/ajax/card.php on line 13
+[02-Jan-2022 15:27:40 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/mineinus/public_html/ajax/card.php on line 16
+[02-Jan-2022 15:28:52 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[02-Jan-2022 15:28:52 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[02-Jan-2022 15:28:52 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: g-recaptcha-response in /home/mineinus/public_html/ajax/card.php on line 10
+[02-Jan-2022 15:29:52 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(): SSL: Handshake timed out in /home/mineinus/public_html/ajax/card.php on line 13
+[02-Jan-2022 15:29:52 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/mineinus/public_html/ajax/card.php on line 13
+[02-Jan-2022 15:29:52 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LeLcgMdAAAAADpp1WAHR5RQLfg45SWxcl_2esaI&amp;response=&amp;remoteip=2405:4802:9032:a860:e8cc:bfe1:8e67:46ca): failed to open stream: operation failed in /home/mineinus/public_html/ajax/card.php on line 13
+[02-Jan-2022 15:29:52 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/mineinus/public_html/ajax/card.php on line 16
+[02-Jan-2022 15:41:45 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[02-Jan-2022 15:41:45 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[02-Jan-2022 15:41:45 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: g-recaptcha-response in /home/mineinus/public_html/ajax/card.php on line 10
+[02-Jan-2022 15:42:45 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(): SSL: Handshake timed out in /home/mineinus/public_html/ajax/card.php on line 13
+[02-Jan-2022 15:42:45 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/mineinus/public_html/ajax/card.php on line 13
+[02-Jan-2022 15:42:45 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LeLcgMdAAAAADpp1WAHR5RQLfg45SWxcl_2esaI&amp;response=&amp;remoteip=2405:4802:9032:a860:1dfd:1eee:6637:c501): failed to open stream: operation failed in /home/mineinus/public_html/ajax/card.php on line 13
+[02-Jan-2022 15:42:45 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/mineinus/public_html/ajax/card.php on line 16
+[02-Jan-2022 15:43:09 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[02-Jan-2022 15:43:09 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[02-Jan-2022 15:43:09 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: g-recaptcha-response in /home/mineinus/public_html/ajax/card.php on line 10
+[02-Jan-2022 15:44:09 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(): SSL: Handshake timed out in /home/mineinus/public_html/ajax/card.php on line 13
+[02-Jan-2022 15:44:09 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/mineinus/public_html/ajax/card.php on line 13
+[02-Jan-2022 15:44:09 Asia/Ho_Chi_Minh] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6LeLcgMdAAAAADpp1WAHR5RQLfg45SWxcl_2esaI&amp;response=&amp;remoteip=2405:4802:9032:a860:1dfd:1eee:6637:c501): failed to open stream: operation failed in /home/mineinus/public_html/ajax/card.php on line 13
+[02-Jan-2022 15:44:09 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/mineinus/public_html/ajax/card.php on line 16
+[05-Jan-2022 18:46:31 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[05-Jan-2022 18:46:31 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[05-Jan-2022 18:46:31 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: g-recaptcha-response in /home/mineinus/public_html/ajax/card.php on line 10
+[05-Jan-2022 18:46:40 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[05-Jan-2022 18:46:40 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[05-Jan-2022 18:46:40 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: g-recaptcha-response in /home/mineinus/public_html/ajax/card.php on line 10
+[05-Jan-2022 18:51:11 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/mineinus/public_html/ajax/card.php on line 99
+[05-Jan-2022 18:53:41 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/mineinus/public_html/ajax/card.php on line 99
+[05-Jan-2022 18:54:08 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/mineinus/public_html/ajax/card.php on line 99
+[05-Jan-2022 18:54:08 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/mineinus/public_html/ajax/card.php on line 99
+[05-Jan-2022 18:54:09 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/mineinus/public_html/ajax/card.php on line 99
+[05-Jan-2022 19:05:42 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[05-Jan-2022 19:05:42 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[05-Jan-2022 19:05:42 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[05-Jan-2022 19:05:42 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[05-Jan-2022 19:05:42 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[05-Jan-2022 19:05:42 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 25
+[05-Jan-2022 19:05:42 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 27
+[05-Jan-2022 19:15:57 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/api/config.php on line 23
+[05-Jan-2022 19:15:57 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/api/config.php on line 25
+[05-Jan-2022 19:15:57 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 19
+[05-Jan-2022 19:15:57 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 21
+[05-Jan-2022 19:15:57 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 23
+[05-Jan-2022 19:15:57 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 25
+[05-Jan-2022 19:15:57 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/mineinus/public_html/ajax/card.php on line 27
+[05-Jan-2022 19:23:33 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/controller/class/connection.php on line 6
+[05-Jan-2022 19:23:33 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/controller/class/connection.php on line 7
+[05-Jan-2022 19:24:33 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/public_html/controller/class/connection.php on line 6
+[05-Jan-2022 19:24:33 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/controller/class/connection.php on line 7
+[05-Jan-2022 19:24:34 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miuweb'@'host212.vietnix.vn' (using password: YES) in /home/mineinus/public_html/controller/class/connection.php on line 6
+[05-Jan-2022 19:24:34 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/controller/class/connection.php on line 7
+[05-Jan-2022 19:24:34 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miuweb'@'host212.vietnix.vn' (using password: YES) in /home/mineinus/public_html/controller/class/connection.php on line 6
+[05-Jan-2022 19:24:34 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/controller/class/connection.php on line 7
+[05-Jan-2022 19:24:34 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miuweb'@'host212.vietnix.vn' (using password: YES) in /home/mineinus/public_html/controller/class/connection.php on line 6
+[05-Jan-2022 19:24:34 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/controller/class/connection.php on line 7
+[05-Jan-2022 19:24:34 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miuweb'@'host212.vietnix.vn' (using password: YES) in /home/mineinus/public_html/controller/class/connection.php on line 6
+[05-Jan-2022 19:24:34 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/controller/class/connection.php on line 7
+[05-Jan-2022 19:24:35 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miuweb'@'host212.vietnix.vn' (using password: YES) in /home/mineinus/public_html/controller/class/connection.php on line 6
+[05-Jan-2022 19:24:35 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/controller/class/connection.php on line 7
+[05-Jan-2022 19:24:35 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miuweb'@'host212.vietnix.vn' (using password: YES) in /home/mineinus/public_html/controller/class/connection.php on line 6
+[05-Jan-2022 19:24:35 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/controller/class/connection.php on line 7
+[05-Jan-2022 19:24:36 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miuweb'@'host212.vietnix.vn' (using password: YES) in /home/mineinus/public_html/controller/class/connection.php on line 6
+[05-Jan-2022 19:24:36 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/controller/class/connection.php on line 7
+[05-Jan-2022 19:24:36 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miuweb'@'host212.vietnix.vn' (using password: YES) in /home/mineinus/public_html/controller/class/connection.php on line 6
+[05-Jan-2022 19:24:36 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/controller/class/connection.php on line 7
+[05-Jan-2022 19:24:36 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miuweb'@'host212.vietnix.vn' (using password: YES) in /home/mineinus/public_html/controller/class/connection.php on line 6
+[05-Jan-2022 19:24:36 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/controller/class/connection.php on line 7
+[05-Jan-2022 19:24:36 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'miuweb'@'host212.vietnix.vn' (using password: YES) in /home/mineinus/public_html/controller/class/connection.php on line 6
+[05-Jan-2022 19:24:36 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/controller/class/connection.php on line 7
+[14-Jan-2022 16:09:56 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): Error while reading greeting packet. PID=4049 in /home/mineinus/public_html/controller/class/connection.php on line 6
+[14-Jan-2022 16:09:56 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2006): MySQL server has gone away in /home/mineinus/public_html/controller/class/connection.php on line 6
+[14-Jan-2022 16:09:56 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/mineinus/public_html/controller/class/connection.php on line 7
+[19-Apr-2022 10:40:40 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:31
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(62): account->getAccount('Shiru', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 31
+[19-Apr-2022 10:40:41 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:31
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(62): account->getAccount('Shiru', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 31
+[19-Apr-2022 10:40:50 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:31
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(62): account->getAccount('Shiru', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 31
+[19-Apr-2022 10:40:51 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:31
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(62): account->getAccount('Shiru', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 31
+[19-Apr-2022 10:40:53 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:31
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(62): account->getAccount('Shiru', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 31
+[19-Apr-2022 10:40:55 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:31
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(62): account->getAccount('Shiru', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 31
+[19-Apr-2022 10:40:56 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:31
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(62): account->getAccount('Shiru', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 31
+[19-Apr-2022 10:40:58 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:31
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(62): account->getAccount('Shiru', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 31
+[19-Apr-2022 10:41:00 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:31
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(62): account->getAccount('Shiru', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 31
+[19-Apr-2022 10:41:01 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:31
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(62): account->getAccount('Shiru', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 31
+[19-Apr-2022 10:41:04 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:31
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(62): account->getAccount('Shiru', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 31
+[19-Apr-2022 10:42:17 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:61
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(62): account->getAccount('Shiru', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 61
+[19-Apr-2022 10:42:22 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:61
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(62): account->getAccount('Shiru', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 61
+[19-Apr-2022 10:42:22 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:61
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(62): account->getAccount('SayWut', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 61
+[19-Apr-2022 10:42:24 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:61
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(62): account->getAccount('Shiru', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 61
+[19-Apr-2022 10:42:24 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:61
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(62): account->getAccount('SayWut', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 61
+[19-Apr-2022 10:42:25 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:61
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(62): account->getAccount('Shiru', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 61
+[19-Apr-2022 10:42:26 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:61
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(62): account->getAccount('SayWut', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 61
+[19-Apr-2022 10:42:28 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:61
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(62): account->getAccount('SayWut', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 61
+[19-Apr-2022 10:42:29 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:61
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(62): account->getAccount('SayWut', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 61
+[19-Apr-2022 10:42:31 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:61
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(62): account->getAccount('SayWut', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 61
+[19-Apr-2022 10:42:33 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:61
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(62): account->getAccount('SayWut', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 61
+[19-Apr-2022 10:42:40 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:61
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(62): account->getAccount('SayWut', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 61
+[19-Apr-2022 10:42:42 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:61
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(62): account->getAccount('Shiru', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 61
+[19-Apr-2022 10:42:44 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:61
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(62): account->getAccount('Shiru', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 61
+[19-Apr-2022 10:42:47 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:61
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(62): account->getAccount('kibeno', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 61
+[19-Apr-2022 10:45:44 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:61
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(62): account->getAccount('Shiru', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 61
+[19-Apr-2022 10:45:46 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:61
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(62): account->getAccount('Shiru', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 61
+[19-Apr-2022 10:45:48 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:61
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(62): account->getAccount('Shiru', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 61
+[19-Apr-2022 10:45:49 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:61
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(62): account->getAccount('Shiru', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 61
+[19-Apr-2022 10:47:15 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 13
+[19-Apr-2022 10:47:15 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 15
+[19-Apr-2022 10:47:40 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:61
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(62): account->getAccount('Shiru', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 61
+[19-Apr-2022 10:49:12 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:61
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(62): account->getAccount('Shiru', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 61
+[19-Apr-2022 10:49:24 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:61
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(62): account->getAccount('Shiru', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 61
+[19-Apr-2022 10:49:26 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:61
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(62): account->getAccount('Shiru', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 61
+[19-Apr-2022 10:49:27 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:61
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(62): account->getAccount('Shiru', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 61
+[19-Apr-2022 10:50:59 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:61
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(62): account->getAccount('Shiru', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 61
+[19-Apr-2022 10:51:01 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:61
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(62): account->getAccount('Shiru', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 61
+[19-Apr-2022 10:52:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: EMAIL in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 10:52:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: LASTLOGIN in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 10:52:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: EMAIL in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 10:52:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: LASTLOGIN in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 10:52:37 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: EMAIL in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 10:52:37 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: LASTLOGIN in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 10:52:37 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: EMAIL in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 10:52:37 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: LASTLOGIN in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 10:52:40 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: EMAIL in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 10:52:40 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: LASTLOGIN in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 10:52:40 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: EMAIL in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 10:52:40 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: LASTLOGIN in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 10:52:43 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: EMAIL in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 10:52:43 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: LASTLOGIN in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 10:52:43 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: EMAIL in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 10:52:43 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: LASTLOGIN in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 10:52:46 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: EMAIL in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 10:52:46 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: LASTLOGIN in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 10:52:46 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: EMAIL in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 10:52:46 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: LASTLOGIN in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 10:53:12 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: EMAIL in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 10:53:12 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: LASTLOGIN in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 10:53:12 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: EMAIL in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 10:53:12 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: LASTLOGIN in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 10:55:54 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: EMAIL in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 10:55:54 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: LASTLOGIN in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 10:55:54 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: EMAIL in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 10:55:54 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: LASTLOGIN in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 11:00:00 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: EMAIL in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 11:00:00 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: LASTLOGIN in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 11:06:19 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: EMAIL in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 11:06:19 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: LASTLOGIN in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 11:06:19 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: EMAIL in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 11:06:19 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: LASTLOGIN in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 11:06:22 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: EMAIL in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 11:06:22 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: LASTLOGIN in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 11:06:22 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: EMAIL in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 11:06:22 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: LASTLOGIN in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 11:06:33 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: EMAIL in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 11:06:33 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: LASTLOGIN in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 11:19:15 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 35
+[19-Apr-2022 11:19:15 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 37
+[19-Apr-2022 11:28:04 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: apikey in /home/mineinus/id.mineinus.com/ajax/card.php on line 39
+[19-Apr-2022 11:28:49 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: apikey in /home/mineinus/id.mineinus.com/ajax/card.php on line 39
+[19-Apr-2022 11:30:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: apikey in /home/mineinus/id.mineinus.com/ajax/card.php on line 39
+[19-Apr-2022 11:36:50 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 35
+[19-Apr-2022 11:36:50 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 37
+[19-Apr-2022 12:05:43 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 57
+[19-Apr-2022 12:05:43 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 59
+[19-Apr-2022 12:22:45 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 13
+[19-Apr-2022 12:22:45 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 15
+[19-Apr-2022 23:14:34 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 35
+[19-Apr-2022 23:14:34 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 37
+[19-Apr-2022 23:52:24 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 13
+[19-Apr-2022 23:52:24 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 15
+[21-Apr-2022 10:01:48 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 35
+[21-Apr-2022 10:01:48 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 37
+[21-Apr-2022 10:15:33 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 13
+[21-Apr-2022 10:15:33 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 15
+[21-Apr-2022 10:35:53 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 35
+[21-Apr-2022 10:35:53 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 37
+[21-Apr-2022 12:29:19 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function account::checkPlayerBan(), 3 passed in /home/mineinus/id.mineinus.com/ajax/login-validate.php on line 60 and exactly 4 expected in /home/mineinus/id.mineinus.com/controller/class/account.php:325
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(60): account->checkPlayerBan('f4613258-f50c-3...', 'kahn12345678@gm...', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 325
+[22-Apr-2022 13:05:53 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:61
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(127): account->getAccount('farat', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 61
+[22-Apr-2022 14:27:38 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:61
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(127): account->getAccount('hoanghuuphuc', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 61
+[22-Apr-2022 16:11:03 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:23
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(32): account->getAccount('hahanh.tranphu@...', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 23
+[22-Apr-2022 16:19:29 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:23
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(32): account->getAccount('hahanh.tranphu@...', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 23
+[22-Apr-2022 16:19:58 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:23
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(32): account->getAccount('hahanh.tranphu@...', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 23
+[22-Apr-2022 16:23:34 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:61
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(127): account->getAccount('cooley_boi', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 61
+[22-Apr-2022 16:31:46 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:23
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(32): account->getAccount('hahanh.tranphu@...', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 23
+[22-Apr-2022 17:42:58 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:61
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(127): account->getAccount('kibeno', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 61
+[22-Apr-2022 18:25:07 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:61
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(127): account->getAccount('kibeno', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 61
+[22-Apr-2022 18:27:29 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/controller/class/account.php:61
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/ajax/login-validate.php(127): account->getAccount('kibeno', Object(mysqli))
+#1 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/class/account.php on line 61

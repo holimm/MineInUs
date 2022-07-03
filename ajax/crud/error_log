@@ -1,0 +1,56 @@
+[19-Apr-2022 10:41:09 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/ajax/crud/register-insert.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mineinus/id.mineinus.com/ajax/crud/register-insert.php on line 14
+[19-Apr-2022 11:54:38 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/ajax/crud/password-email-reset.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/mineinus/id.mineinus.com/ajax/crud/password-email-reset.php on line 26
+[19-Apr-2022 11:55:54 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/ajax/crud/password-email-reset.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/mineinus/id.mineinus.com/ajax/crud/password-email-reset.php on line 26
+[19-Apr-2022 11:57:30 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/ajax/crud/password-email-reset.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/mineinus/id.mineinus.com/ajax/crud/password-email-reset.php on line 26
+[19-Apr-2022 12:00:38 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/mineinus/id.mineinus.com/ajax/crud/update-forget-password.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/mineinus/id.mineinus.com/ajax/crud/update-forget-password.php on line 41
+[19-Apr-2022 14:12:22 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/ajax/crud/register-insert.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mineinus/id.mineinus.com/ajax/crud/register-insert.php on line 14
+[19-Apr-2022 14:19:19 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/ajax/crud/register-insert.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mineinus/id.mineinus.com/ajax/crud/register-insert.php on line 14
+[19-Apr-2022 14:19:26 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/ajax/crud/register-insert.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mineinus/id.mineinus.com/ajax/crud/register-insert.php on line 14
+[21-Apr-2022 10:03:00 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '{' in /home/mineinus/id.mineinus.com/ajax/crud/email-update.php on line 23
+[21-Apr-2022 10:26:26 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '{' in /home/mineinus/id.mineinus.com/ajax/crud/email-update.php on line 23
+[21-Apr-2022 10:30:53 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '{' in /home/mineinus/id.mineinus.com/ajax/crud/email-update.php on line 23
+[21-Apr-2022 10:34:38 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '{' in /home/mineinus/id.mineinus.com/ajax/crud/email-update.php on line 23
+[21-Apr-2022 10:34:47 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '{' in /home/mineinus/id.mineinus.com/ajax/crud/email-update.php on line 23
+[21-Apr-2022 10:35:29 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '{' in /home/mineinus/id.mineinus.com/ajax/crud/email-update.php on line 23
+[21-Apr-2022 10:36:42 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '{' in /home/mineinus/id.mineinus.com/ajax/crud/email-update.php on line 23
+[21-Apr-2022 10:38:32 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '{' in /home/mineinus/id.mineinus.com/ajax/crud/email-update.php on line 23
+[22-Apr-2022 13:04:22 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/ajax/crud/register-insert.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/mineinus/id.mineinus.com/ajax/crud/register-insert.php on line 27
+[22-Apr-2022 17:34:15 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/ajax/crud/register-insert.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/mineinus/id.mineinus.com/ajax/crud/register-insert.php on line 27
+[22-Apr-2022 17:35:33 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/ajax/crud/register-insert.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/mineinus/id.mineinus.com/ajax/crud/register-insert.php on line 27
+[22-Apr-2022 18:15:54 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/ajax/crud/register-insert.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/mineinus/id.mineinus.com/ajax/crud/register-insert.php on line 27

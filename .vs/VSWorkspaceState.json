@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ajax",
+    "\\ajax\\crud",
+    "\\api",
+    "\\controller",
+    "\\controller\\class",
+    "\\css",
+    "\\img",
+    "\\view"
+  ],
+  "SelectedNode": "\\ajax\\login-validate.php",
+  "PreviewInSolutionExplorer": false
+}

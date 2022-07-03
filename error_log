@@ -1,0 +1,130 @@
+[19-Apr-2022 10:55:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: EMAIL in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 10:55:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: LASTLOGIN in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 11:00:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: EMAIL in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 11:00:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: LASTLOGIN in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 11:01:01 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: EMAIL in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 11:01:01 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: LASTLOGIN in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 11:01:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: EMAIL in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 11:01:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: LASTLOGIN in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 11:01:22 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: EMAIL in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 11:01:22 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: LASTLOGIN in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 11:01:52 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: EMAIL in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 11:01:52 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: LASTLOGIN in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 11:02:01 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: EMAIL in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 11:02:01 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: LASTLOGIN in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 11:03:01 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: EMAIL in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 11:03:01 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: LASTLOGIN in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 11:03:53 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: EMAIL in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 11:03:53 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: LASTLOGIN in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 11:06:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: EMAIL in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 11:06:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: LASTLOGIN in /home/mineinus/id.mineinus.com/controller/class/account.php on line 83
+[19-Apr-2022 11:59:05 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/mineinus/id.mineinus.com/reset-password.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/mineinus/id.mineinus.com/reset-password.php on line 33
+[19-Apr-2022 11:59:12 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/mineinus/id.mineinus.com/reset-password.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/mineinus/id.mineinus.com/reset-password.php on line 33
+[19-Apr-2022 11:59:12 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/mineinus/id.mineinus.com/reset-password.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/mineinus/id.mineinus.com/reset-password.php on line 33
+[19-Apr-2022 11:59:41 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/mineinus/id.mineinus.com/reset-password.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/mineinus/id.mineinus.com/reset-password.php on line 33
+[19-Apr-2022 11:59:55 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/mineinus/id.mineinus.com/reset-password.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/mineinus/id.mineinus.com/reset-password.php on line 33
+[19-Apr-2022 12:17:30 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/mineinus/id.mineinus.com/email-change-confirmed.php:187
+Stack trace:
+#0 {main}
+  thrown in /home/mineinus/id.mineinus.com/email-change-confirmed.php on line 187
+[21-Apr-2022 11:25:23 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/mineinus/id.mineinus.com/controller/authController.php:91
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/controller/authController.php(31): getLinkCardValue()
+#1 /home/mineinus/id.mineinus.com/login.php(3): require_once('/home/mineinus/...')
+#2 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/authController.php on line 91
+[21-Apr-2022 11:25:24 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/mineinus/id.mineinus.com/controller/authController.php:91
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/controller/authController.php(31): getLinkCardValue()
+#1 /home/mineinus/id.mineinus.com/login.php(3): require_once('/home/mineinus/...')
+#2 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/authController.php on line 91
+[21-Apr-2022 11:25:37 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/mineinus/id.mineinus.com/controller/authController.php:91
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/controller/authController.php(31): getLinkCardValue()
+#1 /home/mineinus/id.mineinus.com/login.php(3): require_once('/home/mineinus/...')
+#2 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/authController.php on line 91
+[21-Apr-2022 11:25:46 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/mineinus/id.mineinus.com/controller/authController.php:91
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/controller/authController.php(31): getLinkCardValue()
+#1 /home/mineinus/id.mineinus.com/login.php(3): require_once('/home/mineinus/...')
+#2 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/authController.php on line 91
+[21-Apr-2022 11:25:51 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/mineinus/id.mineinus.com/controller/authController.php:91
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/controller/authController.php(31): getLinkCardValue()
+#1 /home/mineinus/id.mineinus.com/login.php(3): require_once('/home/mineinus/...')
+#2 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/authController.php on line 91
+[21-Apr-2022 11:25:51 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/mineinus/id.mineinus.com/controller/authController.php:91
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/controller/authController.php(31): getLinkCardValue()
+#1 /home/mineinus/id.mineinus.com/login.php(3): require_once('/home/mineinus/...')
+#2 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/authController.php on line 91
+[21-Apr-2022 11:26:09 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/mineinus/id.mineinus.com/controller/authController.php:91
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/controller/authController.php(31): getLinkCardValue()
+#1 /home/mineinus/id.mineinus.com/login.php(3): require_once('/home/mineinus/...')
+#2 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/authController.php on line 91
+[21-Apr-2022 11:26:16 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/mineinus/id.mineinus.com/controller/authController.php:91
+Stack trace:
+#0 /home/mineinus/id.mineinus.com/controller/authController.php(31): getLinkCardValue()
+#1 /home/mineinus/id.mineinus.com/login.php(3): require_once('/home/mineinus/...')
+#2 {main}
+  thrown in /home/mineinus/id.mineinus.com/controller/authController.php on line 91
+[21-Apr-2022 14:49:01 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1698): Access denied for user 'miuweb'@'host212.vietnix.vn' in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 13
+[21-Apr-2022 14:49:01 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 15
+[21-Apr-2022 14:49:04 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1698): Access denied for user 'miuweb'@'host212.vietnix.vn' in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 13
+[21-Apr-2022 14:49:04 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 15
+[21-Apr-2022 14:49:10 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1698): Access denied for user 'miuweb'@'host212.vietnix.vn' in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 13
+[21-Apr-2022 14:49:10 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 15
+[21-Apr-2022 14:50:05 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1698): Access denied for user 'miuweb'@'host212.vietnix.vn' in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 13
+[21-Apr-2022 14:50:05 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 15
+[21-Apr-2022 14:54:35 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1698): Access denied for user 'miuweb'@'host212.vietnix.vn' in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 13
+[21-Apr-2022 14:54:35 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 15
+[21-Apr-2022 15:08:16 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1698): Access denied for user 'miuweb'@'host212.vietnix.vn' in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 13
+[21-Apr-2022 15:08:16 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 15
+[21-Apr-2022 15:18:28 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1698): Access denied for user 'miuweb'@'host212.vietnix.vn' in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 13
+[21-Apr-2022 15:18:28 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 15
+[21-Apr-2022 15:18:40 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1698): Access denied for user 'miuweb'@'host212.vietnix.vn' in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 13
+[21-Apr-2022 15:18:40 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 15
+[21-Apr-2022 15:51:44 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1698): Access denied for user 'miuweb'@'host212.vietnix.vn' in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 13
+[21-Apr-2022 15:51:44 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 15
+[21-Apr-2022 15:51:50 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1698): Access denied for user 'miuweb'@'host212.vietnix.vn' in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 13
+[21-Apr-2022 15:51:50 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 15
+[21-Apr-2022 15:57:46 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1698): Access denied for user 'miuweb'@'host212.vietnix.vn' in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 13
+[21-Apr-2022 15:57:46 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 15
+[21-Apr-2022 16:12:01 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1698): Access denied for user 'miuweb'@'host212.vietnix.vn' in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 13
+[21-Apr-2022 16:12:01 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 15
+[21-Apr-2022 16:22:51 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1698): Access denied for user 'miuweb'@'host212.vietnix.vn' in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 13
+[21-Apr-2022 16:22:51 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 15
+[21-Apr-2022 16:23:20 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/1698): Access denied for user 'miuweb'@'host212.vietnix.vn' in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 13
+[21-Apr-2022 16:23:20 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 15
+[21-Apr-2022 16:33:40 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 57
+[21-Apr-2022 16:33:40 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_set_charset(): Couldn't fetch mysqli in /home/mineinus/id.mineinus.com/controller/class/connection.php on line 59
+[22-Apr-2022 14:28:07 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/mineinus/id.mineinus.com/email-confirmed.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/mineinus/id.mineinus.com/email-confirmed.php on line 67
+[22-Apr-2022 16:37:21 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/mineinus/id.mineinus.com/email-confirmed.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/mineinus/id.mineinus.com/email-confirmed.php on line 67
