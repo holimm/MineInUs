@@ -53,7 +53,7 @@ if ($result->num_rows > 0){
 
 			$conn->query("UPDATE `trans_log` SET `status` = 1 WHERE `id` = {$result['id']}"); // chuyển cho kết quả thành công      
 
-			$webhookurl = "https://discord.com/api/webhooks/970860049499058196/k_NQDLpcF4xghE7SxG8mE8aePkNRYiyO1nudIZzzDd4831FgrBhg1yc3lCMm99BGPzyb";
+			$webhookurl = "";
 	        $timestamp = date("c", strtotime("now"));
 	        $json_data = json_encode([
 	            // Message
