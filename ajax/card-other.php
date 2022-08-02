@@ -88,7 +88,7 @@ else
             echo '<script type="text/javascript">grecaptcha.reset();</script>';
         }
         //Discord Send Message
-        $webhookurl = "https://discord.com/api/webhooks/954367152742350909/ODozoUnevD-t-Lzcacv_57BVdzVQ5poYRD4es_PJHZWP4eCiwgTtZtBUT68ZN3ncTplb";
+        $webhookurl = "";
         $timestamp = date("c", strtotime("now"));
         $json_data = json_encode([
             // Message
